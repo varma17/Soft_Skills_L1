@@ -70,7 +70,7 @@ This database solution was first built by Facebook. Cassandra is among the most 
 
 | **SQL**         | **NoSQL**       |
 |    :---:    |    :----:   |
-| RELATIONAL DATABASE MANAGEMENT SYSTEM (RDBMS) |	Non-relational or distributed database system. |
+| Relational Database Management System (RDBMS) |	Non-relational or distributed database system. |
 | These databases have fixed or static or predefined schema	|They have dynamic schema |
 | These databases are not suited for hierarchical data storage. |	These databases are best suited for hierarchical data storage. |
 | These databases are best suited for complex queries |	These databases are not so good for complex queries |

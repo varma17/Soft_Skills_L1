@@ -66,6 +66,17 @@ This is a highly scalable, open-source distributed database system. If the solut
 ### ***Cassandra***
 This database solution was first built by Facebook. Cassandra is among the most scalable as it can handle petabytes of information and thousands of concurrent requests. It is the best fit for use cases requiring more writing operations than reading ones.
 
+## Key highlights on SQL vs NoSQL:
+
+| **SQL**         | **NoSQL**       |
+|    :---:    |    :----:   |
+| RELATIONAL DATABASE MANAGEMENT SYSTEM (RDBMS) |	Non-relational or distributed database system. |
+| These databases have fixed or static or predefined schema	|They have dynamic schema |
+| These databases are not suited for hierarchical data storage. |	These databases are best suited for hierarchical data storage. |
+| These databases are best suited for complex queries |	These databases are not so good for complex queries |
+| Vertically Scalable |	Horizontally scalable |
+| Follows ACID property |	Follows CAP(consistency, availability, partition tolerance) |
+
 #### _References:-_
 
 * https://www.mongodb.com/nosql-explained

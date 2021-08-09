@@ -37,7 +37,7 @@ NoSQL is used because of the fundamental characteristics that give strength to i
 3. Wide-column stores 
 4. Graph databases
 
-<img src="https://cdn.guru99.com/images/1/101818_0537_NoSQLTutori5.png" width="300" height="500" />
+<img src="https://cdn.guru99.com/images/1/101818_0537_NoSQLTutori5.png" width="700" height="300" />
 
 **Document Databases** store data in documents similar to JSON (JavaScript Object Notation) objects. Each document contains pairs of fields and values. The values can typically be a variety of types including things like strings, numbers, booleans, arrays, or objects, and their structures typically align with objects developers are working with in code. Because of their variety of field value types and powerful query languages, document databases are great for a wide variety of use cases and can be used as a general purpose database. They can horizontally scale-out to accomodate large data volumes. MongoDB is consistently ranked as the world’s most popular NoSQL database according to [DB-engines](https://db-engines.com/en/ranking) and is an example of a document database. For more on document databases, visit [What is a Document Database?.](https://www.mongodb.com/document-databases)
 

@@ -32,12 +32,12 @@ NoSQL is used because of the fundamental characteristics that give strength to i
 
 ## Types of NoSQL :
 
-1.Document databases
-2.Key-value databases
-3.Wide-column stores 
-4.Graph databases
+1. Document databases
+2. Key-value databases
+3. Wide-column stores 
+4. Graph databases
 
-<img src="https://cdn.guru99.com/images/1/101818_0537_NoSQLTutori5.png" width="500" height="300" />
+<img src="https://cdn.guru99.com/images/1/101818_0537_NoSQLTutori5.png" width="300" height="500" />
 
 **Document Databases** store data in documents similar to JSON (JavaScript Object Notation) objects. Each document contains pairs of fields and values. The values can typically be a variety of types including things like strings, numbers, booleans, arrays, or objects, and their structures typically align with objects developers are working with in code. Because of their variety of field value types and powerful query languages, document databases are great for a wide variety of use cases and can be used as a general purpose database. They can horizontally scale-out to accomodate large data volumes. MongoDB is consistently ranked as the world’s most popular NoSQL database according to [DB-engines](https://db-engines.com/en/ranking) and is an example of a document database. For more on document databases, visit [What is a Document Database?.](https://www.mongodb.com/document-databases)
 
@@ -55,22 +55,22 @@ NoSQL is used because of the fundamental characteristics that give strength to i
  - **HBase**
  - **Cassandra**
 
-### MongoDB
+### ***MongoDB***
 MongoDB is the most popular document-based NoSQL database. It is best fit for use-cases when you are planning to integrate hundreds of different data sources. Even when you are expecting read and write operations, you can use MongoDB. The database allows you to store clickstream data and use it for behavioural analysis.
 
-### ElasticSearch
+### ***ElasticSearch***
 This NoSQL database is used if the full-text search is part of your solution. It is used by more than 3000 companies including Udemy, Medium, and StackOverflow. Some of the popular use-cases involve chatbots which resolve most of the queries.
 
-### DynamoDB
+### ***DynamoDB***
 Amazon's NoSQL database is known for its scalability. If your solutions require a database that can handle simple key-value queries in a large number, DynamoDB is the best choice. If you are working with OLTP workload, even then DynamoDB is preferred.
 
-### HBase
+### ***HBase***
 This is a highly scalable, open-source distributed database system. If the solution you are working on has petabytes of data, then HBase is the best choice. If you want to easily store real-time messages, it comes as an efficient solution.
 
-### Cassandra
+### ***Cassandra***
 This database solution was first built by Facebook. Cassandra is among the most scalable as it can handle petabytes of information and thousands of concurrent requests. It is the best fit for use cases requiring more writing operations than reading ones.
 
-#### _References_
+#### _References:-_
 
 * https://www.mongodb.com/nosql-explained
 * https://www.guru99.com/nosql-tutorial.html

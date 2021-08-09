@@ -12,17 +12,17 @@ NoSQL data models allow related data to be nested within a single data structure
 
 ## Why NoSQL?
 
-NoSQL is used because of the fundamental characteristics that give strength to it. The characteristics are - 
+* NoSQL is used because of the fundamental characteristics that give strength to it. The characteristics are - 
 
-* It has high scalability and high availability.
+ * It has high scalability and high availability.
 
-* It uses the cloud so that it could deliver zero downtime.
+ * It uses the cloud so that it could deliver zero downtime.
 
-* It can handle large volumes of data at a high speed.
+ * It can handle large volumes of data at a high speed.
 
-* It can store unstructured, semi-structured, or structured data.
+ * It can store unstructured, semi-structured, or structured data.
 
-* It easy to add updates to schemas and fields and is developer-friendly.
+ * It easy to add updates to schemas and fields and is developer-friendly.
 
 ***
 
